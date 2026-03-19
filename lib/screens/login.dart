@@ -31,7 +31,7 @@ String register = letter1 + letter2 + numberController.text;
 String password = passwordController.text;
 
 /// Чиний зөв login
-String correctRegister = "УТ04230474УТ";
+String correctRegister = "УТ04230474";
 String correctPassword = "99703793";
 
 if(register == correctRegister && password == correctPassword){
